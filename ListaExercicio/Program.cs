@@ -6,16 +6,9 @@ namespace ListaExercicio
     {
         static void Main(string[] args)
         {
+            // exer01.Renderizar();
+            exer04.Renderizar();
 
-
-            //Imprimir uma mensagem no terminal
-            Console.WriteLine("Digite a altura");
-            //ler uma nova teclado
-            
-            int altura = Console.ReadLine();
-
-            Console.WriteLine("Digite a largura");
-            
         }
     }
 }
